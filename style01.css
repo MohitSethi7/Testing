@@ -1,4 +1,9 @@
-p, H1
+p
 {
     color:red;
+}
+
+H1
+{
+    color:#00c;
 }
